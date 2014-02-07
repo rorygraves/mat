@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.eclipse:osgi:3.9.1-v20130814-1242">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse/osgi/jars/osgi-3.9.1-v20130814-1242.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse/osgi/docs/osgi-3.9.1-v20130814-1242-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse/osgi/srcs/osgi-3.9.1-v20130814-1242-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

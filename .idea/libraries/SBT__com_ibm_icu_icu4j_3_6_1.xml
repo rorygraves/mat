@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="SBT: com.ibm.icu:icu4j:3.6.1">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/com.ibm.icu/icu4j/jars/icu4j-3.6.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

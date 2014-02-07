@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.eclipse.core:contenttype:3.4.200-v20130326-1255">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.core/contenttype/jars/contenttype-3.4.200-v20130326-1255.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.core/contenttype/docs/contenttype-3.4.200-v20130326-1255-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.core/contenttype/srcs/contenttype-3.4.200-v20130326-1255-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

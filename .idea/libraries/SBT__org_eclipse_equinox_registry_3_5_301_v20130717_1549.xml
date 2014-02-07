@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="SBT: org.eclipse.equinox:registry:3.5.301-v20130717-1549">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.equinox/registry/jars/registry-3.5.301-v20130717-1549.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.equinox/registry/docs/registry-3.5.301-v20130717-1549-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.eclipse.equinox/registry/srcs/registry-3.5.301-v20130717-1549-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
